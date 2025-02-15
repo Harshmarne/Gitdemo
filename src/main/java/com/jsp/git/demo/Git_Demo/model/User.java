@@ -1,6 +1,6 @@
 package com.jsp.git.demo.Git_Demo.model;
 
-public class user {
+public class User {
 
     private int id;
     private String userName;
